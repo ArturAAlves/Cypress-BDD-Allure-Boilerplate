@@ -1,7 +1,8 @@
 # Cypress Allure Plugin Usage Example
 
-This project demonstrates how to use
-(https://github.com/Shelex/cypress-allure-plugin).
+This project demonstrates how to use Allure plugin with Cucumber preprocessor 
+https://github.com/Shelex/cypress-allure-plugin
+https://github.com/badeball/cypress-cucumber-preprocessor
 
 ## How to run:
 
