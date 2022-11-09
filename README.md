@@ -9,6 +9,7 @@ https://github.com/badeball/cypress-cucumber-preprocessor
 -   clone this repo
 -   install dependencies: `npm install`
 -   run tests: `npm run cy:run`
+-   open cypress test suite: `npm run cy:open`
 -   clear previous output `npm run allure:clear`
 -   generate allure report: `npm run allure:report`
 -   open report: `allure open`
